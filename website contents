@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>C&S Youth Junk Removal | Hillsborough, NC</title>
+  <meta name="description" content="Affordable junk removal in Hillsborough and Orange County. Cheaper than big junk companies. Local teen-owned and eco-friendly.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0b0b0b;
+      color: #e5e7eb;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, #000000, #1a1a1a);
+      padding: 80px 20px;
+      text-align: center;
+      border-bottom: 4px solid #dc2626;
+    }
+
+    header h1 {
+      font-size: 42px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    header p {
+      font-size: 18px;
+      color: #d1d5db;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 28px;
+      padding: 16px 30px;
+      background-color: #dc2626;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: 600;
+      box-shadow: 0 10px 25px rgba(220, 38, 38, 0.4);
+      transition: transform 0.2s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+    }
+
+    section {
+      max-width: 1100px;
+      margin: auto;
+      padding: 70px 20px;
+    }
+
+    h2 {
+      font-size: 30px;
+      text-align: center;
+      margin-bottom: 30px;
+      color: #f9fafb;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 25px;
+    }
+
+    .card {
+      background: #111827;
+      padding: 30px;
+      border-radius: 16px;
+      border: 1px solid #1f2937;
+      box-shadow: 0 15px 30px rgba(0,0,0,0.6);
+    }
+
+    iframe {
+      width: 100%;
+      height: 900px;
+      border: none;
+      border-radius: 16px;
+      box-shadow: 0 15px 30px rgba(0,0,0,0.6);
+      background: #ffffff;
+    }
+
+    .story {
+      max-width: 800px;
+      margin: auto;
+      text-align: center;
+      color: #d1d5db;
+    }
+
+    footer {
+      background: #000000;
+      color: #9ca3af;
+      text-align: center;
+      padding: 30px 20px;
+      font-size: 14px;
+      border-top: 3px solid #dc2626;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>C&S Youth Junk Removal</h1>
+  <p>Cheaper Than Big Junk Companies • Local • Eco-Friendly</p>
+  <a class="btn" href="tel:19192899362">Call or Text (919) 289-9362</a>
+</header>
+
+<section>
+  <h2>What We Remove</h2>
+  <div class="grid">
+    <div class="card">Furniture & Mattresses</div>
+    <div class="card">Appliances</div>
+    <div class="card">Bed Frames & Box Springs</div>
+    <div class="card">Garage & Attic Cleanouts</div>
+    <div class="card">Yard Debris & Brush</div>
+    <div class="card">Construction Debris</div>
+    <div class="card">Scrap Metal & Recyclables</div>
+    <div class="card">Single Items or Full Cleanouts</div>
+  </div>
+</section>
+
+<section>
+  <h2>Why Choose Us</h2>
+  <div class="grid">
+    <div class="card">
+      💲 <strong>Cheaper Than Big Junk Companies</strong>
+      <p>No franchise fees or corporate overhead — just honest pricing.</p>
+    </div>
+    <div class="card">
+      🏠 <strong>Local Teens, Not a National Chain</strong>
+      <p>Owned and operated right here in the community.</p>
+    </div>
+    <div class="card">
+      ♻️ <strong>Eco-Friendly Removal</strong>
+      <p>We recycle, donate, and dispose responsibly whenever possible.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Get a Free Photo Quote</h2>
+  <p style="text-align:center; max-width:700px; margin:auto; margin-bottom:30px;">
+    Upload two photos, your contact info, and a short description.
+    We’ll respond quickly with a free, no-pressure estimate.
+  </p>
+
+  <!-- PASTE GOOGLE FORM EMBED LINK BELOW -->
+  <iframe src="PASTE_YOUR_GOOGLE_FORM_LINK_HERE"></iframe>
+</section>
+
+<section>
+  <h2>Our Story</h2>
+  <div class="story">
+    <p>
+      We are two local teens learning how to be entrepreneurs and build
+      businesses that support our community in being clean and sustainable.
+      By keeping our operation simple and local, we’re able to offer prices
+      that are cheaper than big junk removal companies while still providing
+      fast, reliable service. Our goal is to deliver honest, affordable junk
+      removal while learning real-world business skills and giving back locally.
+    </p>
+  </div>
+</section>
+
+<footer>
+  © 2026 C&S Youth Junk Removal • Hillsborough & Orange County, NC
+</footer>
+
+</body>
+</html>
